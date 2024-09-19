@@ -1,6 +1,6 @@
 
 # MRoSE
-This is the repository for our paper *Rethinking Efficient Multilingual Text Summarization Meta-Evaluation*.
+This is the repository for our 2024 ACL Findings paper "[Rethinking Efficient Multilingual Text Summarization Meta-Evaluation](https://aclanthology.org/2024.findings-acl.930)".
 
 ## Dataset Overview
 
